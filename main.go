@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"github.com/Armando115Tapia/goDesdeCero/variables"
+)
 
 func main() {
-	fmt.Println("Hola mundo GOO")
+
+	variables.MuestroEnteros()
 }
