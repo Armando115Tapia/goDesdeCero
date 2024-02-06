@@ -1,0 +1,49 @@
+    |   "IOPlatformSerialNumber" = "C02F2ERCMD6M"
+1Password.app
+Anaconda-Navigator.app
+AppCode.app
+Brave Browser.app
+DBeaver.app
+Dash.app
+DataGrip.app
+Dropbox.app
+Firefox.app
+Foxit PDF Reader.app
+GarageBand.app
+GitHub Desktop.app
+GitKraken.app
+GoLand.app
+Google Chrome.app
+IntelliJ IDEA.app
+Keynote.app
+Kindle.app
+LibreOffice.app
+Lightshot Screenshot.app
+MacPass.app
+Microsoft Edge.app
+Microsoft Excel.app
+Microsoft PowerPoint.app
+Microsoft Teams classic.app
+Microsoft Word.app
+MongoDB Compass.app
+Notion.app
+Numbers.app
+Pages.app
+Postman.app
+PyCharm.app
+Python 3.9
+Safari.app
+Slack.app
+Sophos
+Sourcetree.app
+Spotify.app
+Time Doctor 2.app
+Utilities
+VLC.app
+Visual Studio Code.app
+WebStorm.app
+Xcode.app
+iMovie.app
+iTerm.app
+logioptionsplus.app
+zoom.us.app
