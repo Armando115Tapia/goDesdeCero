@@ -7,7 +7,7 @@ func ValidateIsGraterThan(value string) (int, string) {
 	valor, err := strconv.Atoi(value)
 
 	if err != nil {
-		return 0, "El valor ingresado no es un número"
+		return 0, "El valor ingresado no es un número" + err.Error()
 	}
 
 	if valor > 100 {
