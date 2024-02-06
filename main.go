@@ -1,9 +1,6 @@
 package main
 
-import (
-	"fmt"
-	"github.com/Armando115Tapia/goDesdeCero/ejercicios"
-)
+import "github.com/Armando115Tapia/goDesdeCero/funciones"
 
 func main() {
 
@@ -24,8 +21,10 @@ func main() {
 	//
 	//}
 
-	valor, msj := ejercicios.ValidateIsGraterThan("PEPE")
-	fmt.Println(valor)
-	fmt.Println(msj)
+	//valor, msj := ejercicios.ValidateIsGraterThan("PEPE")
+	//fmt.Println(valor)
+	//fmt.Println(msj)
+
+	funciones.Calculos()
 
 }
