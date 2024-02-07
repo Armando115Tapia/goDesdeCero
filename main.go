@@ -1,6 +1,8 @@
 package main
 
-import "github.com/Armando115Tapia/goDesdeCero/channels"
+import (
+	"github.com/Armando115Tapia/goDesdeCero/punteros"
+)
 
 func main() {
 
@@ -33,5 +35,5 @@ func main() {
 	//value := recursion.ExponenciaDeNvalor(val1, val2)
 	//fmt.Printf("%d elevado a %d es igual a: %d ", val1, val2, value)
 
-	channels.ChangeDireccionChannel()
+	punteros.PointersSample()
 }
