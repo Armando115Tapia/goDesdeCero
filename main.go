@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Armando115Tapia/goDesdeCero/funciones"
+import "github.com/Armando115Tapia/goDesdeCero/channels"
 
 func main() {
 
@@ -25,6 +25,13 @@ func main() {
 	//fmt.Println(valor)
 	//fmt.Println(msj)
 
-	funciones.Calculos()
+	//funciones.Calculos()
 
+	//recursion.ExponenciaDeDos(2)
+	//val1 := 2
+	//val2 := 10
+	//value := recursion.ExponenciaDeNvalor(val1, val2)
+	//fmt.Printf("%d elevado a %d es igual a: %d ", val1, val2, value)
+
+	channels.ChangeDireccionChannel()
 }
