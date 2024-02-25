@@ -1,0 +1,2 @@
+# github.com/ahmetalpbalkan/go-linq v3.0.0+incompatible
+## explicit

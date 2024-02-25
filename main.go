@@ -1,7 +1,8 @@
 package main
 
 import (
-	"github.com/Armando115Tapia/goDesdeCero/punteros"
+	acq_files "github.com/Armando115Tapia/goDesdeCero/acq-files"
+	"github.com/Armando115Tapia/goDesdeCero/jsonEncodeDecode"
 )
 
 func main() {
@@ -35,5 +36,13 @@ func main() {
 	//value := recursion.ExponenciaDeNvalor(val1, val2)
 	//fmt.Printf("%d elevado a %d es igual a: %d ", val1, val2, value)
 
-	punteros.PointersSample()
+	//punteros.PointersSample()
+	//fmt.Println(len("aa"))
+
+	//partnerValidators := []string{"transunion", "experian", "siftscience"}
+	//partnerValidator := "transunion"
+	//test := slices.Contains(partnerValidators, partnerValidator) // true
+	//fmt.Printf(strconv.FormatBool(test))
+	acq_files.TestMarcial()
+	jsonEncodeDecode.JsonDecode()
 }
