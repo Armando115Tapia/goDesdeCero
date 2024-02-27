@@ -1,9 +1,6 @@
 package main
 
-import (
-	acq_files "github.com/Armando115Tapia/goDesdeCero/acq-files"
-	"github.com/Armando115Tapia/goDesdeCero/jsonEncodeDecode"
-)
+import "github.com/Armando115Tapia/goDesdeCero/mapas"
 
 func main() {
 
@@ -43,6 +40,9 @@ func main() {
 	//partnerValidator := "transunion"
 	//test := slices.Contains(partnerValidators, partnerValidator) // true
 	//fmt.Printf(strconv.FormatBool(test))
-	acq_files.TestMarcial()
-	jsonEncodeDecode.JsonDecode()
+	//acq_files.TestMarcial()
+	//jsonEncodeDecode.JsonDecode()
+	//reflection.ReflectSample1()
+	//reflection.ReflectSample2()
+	mapas.MostrarMapas()
 }
